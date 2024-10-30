@@ -1,0 +1,1 @@
+git cherry: is the process of picking commit from one branch to another branch
